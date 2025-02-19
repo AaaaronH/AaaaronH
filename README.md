@@ -7,6 +7,7 @@ I am currently looking for internship/career opporunities in Software Engineerin
 
 ## Experiences
 - System Engineering Intern @ Packaging Coporation of America
+- i4good Summer Intern @ VMWare Shanghai
 - Student Researcher @ Pioneer Academics
 - Programming Tutor (Python, C, C++, C#, Java, HTML, Unity)
 
