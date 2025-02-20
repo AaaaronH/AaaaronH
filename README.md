@@ -15,8 +15,8 @@ For more details, please visit my [LinkedIn page](https://www.linkedin.com/in/aa
 
 ## Projects
 To view public samples of my code, please visit:
-- [Grooot.co: Best DEI Hack @ Uncommon Hackathon](https://github.com/vmittal27/uncommon-hacks-2024) - A web application designed to reduce carbon footprint by replacing tail ends of car rides with a short walk.
+- [Grooot.co - Best DEI Hack @ Uncommon Hackathon](https://github.com/vmittal27/uncommon-hacks-2024) - A web application designed to reduce carbon footprint by replacing tail ends of car rides with a short walk.
 
-- [A Research Paper on Using a SMT Optimizer to Solve Spatial Planning Problems: A Case Study on Installing COVID-19 Test Centers](https://github.com/AaaaronH/Pionner-Academics-COVID-19-Research-Paper/tree/main) - A project that seeks to use the Z3 Satisfiability Modulo Theories Optimizer to solve complex urban planning problems.
+- [Using a SMT Optimizer to Solve Spatial Planning Problems: A Case Study on Installing COVID-19 Test Centers - Research Paper @ Pioneer Academics](https://github.com/AaaaronH/Pionner-Academics-COVID-19-Research-Paper/tree/main) - A project that seeks to use the Z3 Satisfiability Modulo Theories Optimizer to solve complex urban planning problems.
 
 - MikoAI (Private) - An AI Virtual Streamer capable of interacting with Twitch Chat and human speech. I am more than happy to share details about the code during interviews.
