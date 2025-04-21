@@ -19,4 +19,4 @@ To view public samples of my code, please visit:
 
 - [Using an SMT Optimizer to Solve Spatial Planning Problems: A Case Study on Installing COVID-19 Test Centers - Research Paper @ Pioneer Academics](https://github.com/AaaaronH/Pionner-Academics-COVID-19-Research-Paper/tree/main) - A project that seeks to use the Z3 Satisfiability Modulo Theories Optimizer to solve complex urban planning problems.
 
-- MikoAI (Private) - An AI Virtual Streamer capable of interacting with Twitch Chat and human speech. I am more than happy to share details about the code during interviews.
+- MikoAI (Private) - An AI Virtual Streamer capable of interacting with Twitch Chat and human speech. [![Alpha Test Demo](https://img.youtube.com/vi/8kt8cTDX0io/0.jpg)](https://www.youtube.com/watch?v=8kt8cTDX0io)
