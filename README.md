@@ -6,6 +6,7 @@ I was born in Pennsaylvannia🇺🇸, but I grew up primarily in Singapore🇸�
 I am currently looking for internship/career opporunities in Software Engineering and AI/ML Engineering.
 
 ## Experiences
+- Undergraduate Researcher @ UChicago Human-Robot Interaction Lab
 - System Engineering Intern @ Packaging Coporation of America
 - i4good Summer Intern @ VMWare Shanghai
 - Student Researcher @ Pioneer Academics
