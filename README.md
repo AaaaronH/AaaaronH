@@ -1,5 +1,5 @@
 # Hi, I'm Aaron 👋
-I am a second-year student at the University of Chicago majoring in [Computer Science](http://collegecatalog.uchicago.edu/thecollege/computerscience/):computer:, with a specialization in machine learning. I am also pursuing a minor in [Mathematics](http://collegecatalog.uchicago.edu/thecollege/mathematics/#minorprograminmathematics)🔢 and [East Asian Civilization and Language (Japanese)](http://collegecatalog.uchicago.edu/thecollege/eastasianlanguagescivilizations/#minorprogramineastasianlanguagesandcivilizations):earth_asia:.
+I am a junior at the University of Chicago majoring in [Computer Science](http://collegecatalog.uchicago.edu/thecollege/computerscience/):computer:, with a specialization in machine learning. I am also pursuing a minor in [Mathematics](http://collegecatalog.uchicago.edu/thecollege/mathematics/#minorprograminmathematics)🔢 and [East Asian Civilization and Language (Japanese)](http://collegecatalog.uchicago.edu/thecollege/eastasianlanguagescivilizations/#minorprogramineastasianlanguagesandcivilizations):earth_asia:.
 
 I was born in Pennsaylvannia🇺🇸, but I grew up primarily in Singapore🇸🇬 and Shanghai🇨🇳.
 
