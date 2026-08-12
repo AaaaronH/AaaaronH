@@ -3,7 +3,7 @@ I am a junior at the University of Chicago majoring in [Computer Science](http:/
 
 I was born in Pennsaylvannia🇺🇸, but I grew up primarily in Singapore🇸🇬 and Shanghai🇨🇳.
 
-I am currently looking for full-time career opporunities in Software Engineering and AI/ML Engineering.
+I am currently looking for full-time career opportunities in Quant Research, Software Engineering, and AI/ML Engineering.
 
 ## Experiences
 - Software Engineer Intern @ Apple
@@ -17,13 +17,16 @@ I am currently looking for full-time career opporunities in Software Engineering
 For more details, please visit my [LinkedIn page](https://www.linkedin.com/in/aaron-yichen-huang/).
 
 ## Projects
-To view public samples of my code, please visit:
-- [Grooot.co - Best DEI Hack @ Uncommon Hackathon](https://github.com/vmittal27/uncommon-hacks-2024) - A web application designed to reduce carbon footprint by replacing tail ends of car rides with a short walk.
-
-- [Using an SMT Optimizer to Solve Spatial Planning Problems: A Case Study on Installing COVID-19 Test Centers - Research Paper @ Pioneer Academics](https://github.com/AaaaronH/Pionner-Academics-COVID-19-Research-Paper/tree/main) - A project that seeks to use the Z3 Satisfiability Modulo Theories Optimizer to solve complex urban planning problems.
+- [ratemyplayer.live](https://ratemyplayer.live/) (Private Repo) - A website for rating sports/esports players post-match. Currently in active development. Looking for sponsors!
 
 - MikoAI (Private Repo) - An AI Virtual Streamer capable of interacting with Twitch Chat and human speech. Development on pause. Watch a demo here ⬇️
 
   [![Alpha Test Demo](https://img.youtube.com/vi/8kt8cTDX0io/0.jpg)](https://www.youtube.com/watch?v=8kt8cTDX0io)
 
-- [ratemyplayer.live](https://ratemyplayer.live/) (Private Repo) - A website for rating sports/esports players post-match. Currently in active development. Looking for sponsors!
+- [Grooot.co - Best DEI Hack @ Uncommon Hackathon](https://github.com/vmittal27/uncommon-hacks-2024) - A web application designed to reduce carbon footprint by replacing tail ends of car rides with a short walk.
+
+- [Using an SMT Optimizer to Solve Spatial Planning Problems: A Case Study on Installing COVID-19 Test Centers - Research Paper @ Pioneer Academics](https://github.com/AaaaronH/Pionner-Academics-COVID-19-Research-Paper/tree/main) - A project that seeks to use the Z3 Satisfiability Modulo Theories Optimizer to solve complex urban planning problems.
+
+
+
+
