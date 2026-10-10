@@ -3,9 +3,8 @@ I am a junior at the University of Chicago majoring in [Computer Science](http:/
 
 I was born in Pennsaylvannia🇺🇸, but I grew up primarily in Singapore🇸🇬 and Shanghai🇨🇳.
 
-I am currently looking for full-time career opportunities in Quant Research, Software Engineering, and AI/ML Engineering.
-
 ## Experiences
+- Incoming Quant Dev @ Radix Trading
 - Software Engineer Intern @ Apple
 - Building [BabyMilu](https://www.babymilu.com/) @ Good Humans Inc.
 - Undergraduate Researcher @ UChicago Human-Robot Interaction Lab
